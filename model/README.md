@@ -1,0 +1,1 @@
+##the model is in my google drive the script "download_ml_model.py" is for downloading the model
