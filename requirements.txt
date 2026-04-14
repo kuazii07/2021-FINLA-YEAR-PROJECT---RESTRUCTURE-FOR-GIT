@@ -6,3 +6,6 @@ matplotlib
 
 # TensorFlow (includes Keras)
 tensorflow>=2.10
+
+#to download model
+#pip install gdown
